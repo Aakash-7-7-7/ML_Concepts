@@ -19,9 +19,9 @@ Happy coding!
 # About Me 
 Interested in Python,Ml or Data Science... robots automated cars 
 
+Currently learning Python,Ml Concepts
 
-learning Python,Ml Concepts
-
-
+Contact me : niranjancharan75@gmail.com
+ 
 
 
