@@ -8,5 +8,11 @@ Projects: Practical applications of ML in different domains.
 Learning Resources: Notes, links, and references that have helped me along the way.
 Feel free to explore, clone, or contribute! Let's learn and grow together in this exciting field. 🚀
 
+# About Me 
+Interested in Python,Ml or Data Science... robots automated cars 
+learning Python,Ml Concepts
+
+
+
 Happy coding!
 ~~ The Narrator
