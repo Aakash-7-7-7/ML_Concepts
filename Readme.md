@@ -14,7 +14,6 @@ Feel free to explore, clone, or contribute! Let's learn and grow together in thi
 
 
 Happy coding!
-~~ The Narrator
 
 # About Me 
 Interested in Python,Ml or Data Science... robots automated cars 
